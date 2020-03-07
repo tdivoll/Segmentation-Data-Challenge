@@ -9,3 +9,7 @@ The notebook contains metadata from the .csv file, exploratory data analysis (ED
 ## Slides
 
 The google slides provide a summary of the decisions made in this challenge. 
+
+## About Me
+
+This challenge was completed while a Data Science Fellow at Insight Data Science, Boston
